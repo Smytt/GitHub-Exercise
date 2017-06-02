@@ -2,3 +2,5 @@ Lorem ipsum dolor sit amet, eum omnis melius eu,
 nibh magna autem quo ne. Ius amet iriure singulis te. 
 Id nonumy nemore gloriatur sea, ad quo tractatos repudiandae. 
 Ex cum error prompta, quot invenire scriptorem ad mea.
+
+-- changed in dolor branch
